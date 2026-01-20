@@ -1,4 +1,4 @@
-# 🚗 Car Rental
+# Car Rental
 
 Kullanıcıların araçları görüntüleyip sipariş edebildiği, Stripe ile güvenli ödeme sistemi entegre edilmiş modern bir **araç kiralama uygulaması**.
 
